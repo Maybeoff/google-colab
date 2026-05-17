@@ -2,7 +2,9 @@
 
 [![Russian README](https://img.shields.io/badge/RUSSIAN-README-blue?style=for-the-badge)](README.ru.md)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maybeoff/google-colab/blob/main/ipynb/clear_ComfyUI.ipynb)
+Clear profile [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maybeoff/google-colab/blob/main/ipynb/clear_ComfyUI.ipynb)
+
+Anima profile [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maybeoff/google-colab/blob/main/ipynb/ANIMA_ComfyUI.ipynb)
 
 A ready-to-use Google Colab notebook for running **ComfyUI** in the cloud. Fully automated setup — start generating images with no hassle.
 
