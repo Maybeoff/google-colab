@@ -1,6 +1,8 @@
 # ComfyUI Google Colab Template
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maybeoff/google-colab/blob/main/ipynb/clear_ComfyUI.ipynb)
+чистый профиль[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maybeoff/google-colab/blob/main/ipynb/clear_ComfyUI.ipynb)
+
+профиль анима [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maybeoff/google-colab/blob/main/ipynb/ANIMA_ComfyUI.ipynb)
 
 Готовый шаблон для запуска **ComfyUI** в Google Colab. Полностью автоматизированная настройка — генерируй изображения в облаке без лишних усилий.
 
